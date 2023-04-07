@@ -1,2 +1,5 @@
 # Archivo por defecto de mac
 .DS_Store
+
+# Ignorar imagen 
+www/dragon.png 
